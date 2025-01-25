@@ -1,6 +1,7 @@
-# UCS654-Sampling_Assignment
 
-```markdown
+```
+```
+---
 # Sampling Assignment - Machine Learning Models and Sampling Techniques
 
 ## **Overview**
