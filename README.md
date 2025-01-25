@@ -1,7 +1,4 @@
 # UCS654-Sampling_Assignment
-Here’s the code for a complete `README.md` file to document your assignment solution clearly and professionally for GitHub:
-
----
 
 ```markdown
 # Sampling Assignment - Machine Learning Models and Sampling Techniques
@@ -49,8 +46,6 @@ The models were trained and evaluated on the five sampling techniques, and their
 | M4 (SVM)                  | 0.7377 | 0.5902 | 0.7213 | 0.6721 | 0.6885 |
 | M5 (KNN)                  | 0.7377 | 0.7213 | 0.7541 | 0.7377 | 0.6721 |
 
-
----
 ```
 ---
 
@@ -79,7 +74,3 @@ Contains the results of the model evaluations (accuracy matrix).
 
 ---
 
-## **Conclusion**
-This project highlights the importance of sampling techniques in machine learning. The accuracy of models varies significantly depending on how the dataset is sampled. Proper sampling ensures balanced training and testing, leading to better performance and fair evaluation.
-
----
