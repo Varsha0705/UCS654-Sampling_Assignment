@@ -47,7 +47,7 @@ The models were trained and evaluated on the five sampling techniques, and their
 | M4 (SVM)                  | 0.7377 | 0.5902 | 0.7213 | 0.6721 | 0.6885 |
 | M5 (KNN)                  | 0.7377 | 0.7213 | 0.7541 | 0.7377 | 0.6721 |
 
-```
+
 ---
 
 ## **Code Files**
